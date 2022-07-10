@@ -1,0 +1,14 @@
+.input{
+    background-color: white;
+    border: 1px solid black;
+    height: 70vh;
+    width: 80vh;
+    display: block;
+
+}
+
+.button{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
